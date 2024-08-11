@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 3. Open the Jupyter Notebook by running:
 
    ```bash
-   jupyter notebook "Capstone Project.ipynb"
+   jupyter notebook "Bike Sharing-Capstone Project - Rahmah Anggita Fitri.ipynb"
    ```
 
 4. Follow the instructions within the notebook to execute each cell.
