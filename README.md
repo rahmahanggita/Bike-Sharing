@@ -1,5 +1,3 @@
-# PROJECT-MODULE-3-BIKE-SHARING
-
 
 # Bike Sharing Analysis
 
@@ -7,7 +5,9 @@ This project involves analyzing a bike-sharing dataset to extract insights and m
 
 ## Project Overview
 
-The purpose of this project is to analyze a bike-sharing dataset to understand patterns and trends. The analysis focuses on various aspects such as usage trends, popular routes, and factors influencing bike usage. 
+One of the biggest challenges for bike-sharing service providers is ensuring a profitable and sustainable business model while delivering a positive experience for both casual and registered users. In an effort to optimize operations and enhance user experience, bike-sharing service providers face the challenge of accurately predicting bike demand. Factors such as weather changes, seasons, time of day, and day of the week can influence the number of bike rentals.
+
+To address this challenge, a machine learning (ML) model is needed to predict bike demand based on historical data and these external variables. An accurate prediction model allows companies to allocate bikes more efficiently, plan maintenance and distribution, and set appropriate pricing strategies, ultimately improving user satisfaction and operational efficiency.
 
 ## Key Features
 
