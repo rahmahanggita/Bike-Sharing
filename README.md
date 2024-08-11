@@ -1,5 +1,5 @@
 
-# Bike Sharing Analysis
+# Bike Sharing System
 
 This project involves analyzing a bike-sharing dataset to extract insights and make data-driven decisions. The Jupyter Notebook provided in this repository guides users through the process of loading, cleaning, analyzing, and visualizing the data.
 
